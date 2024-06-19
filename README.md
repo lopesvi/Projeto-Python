@@ -1,6 +1,6 @@
 # Limpeza e Tratamento de Dados
 
-Este notebook realiza a leitura e análise de um dataset sobre condições climáticas, incluindo variáveis como "Aparencia", "Temperatura", "Umidade", "Vento" e se é possível "Jogar" ou não em determinadas condições. O objetivo principal do projeto é o tratamento e limpeza de dados, além de proporcionar uma análise inicial. O notebook aborda as seguintes etapas principais:
+Este projeto realiza a leitura e análise de um dataset sobre condições climáticas, incluindo variáveis como "Aparencia", "Temperatura", "Umidade", "Vento" e se é possível "Jogar" ou não em determinadas condições. O objetivo principal do projeto é o tratamento e limpeza de dados, além de proporcionar uma análise inicial. O notebook aborda as seguintes etapas principais:
 
 ### 1.Importação de Bibliotecas: Importa as bibliotecas pandas, seaborn e statistics.
 ### 2.Leitura do Dataset: Carrega os dados a partir de um arquivo CSV.
